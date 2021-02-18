@@ -1,1 +1,1 @@
-Primeiro exercício de Git/GitHub
+Primeiro exercício Git/GitHub
