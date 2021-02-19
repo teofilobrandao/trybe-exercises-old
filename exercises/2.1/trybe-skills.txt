@@ -3,3 +3,5 @@ Bash
 Git
 GitHub
 React
+HTML
+CSS
