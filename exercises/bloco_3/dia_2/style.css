@@ -1,0 +1,36 @@
+h1 {
+    font-family: sans-serif; 
+ }
+
+ p {
+    font-weight: 600;
+    font-size: 3em;
+ }
+
+ body {
+    font-size: 16px; 
+ }
+
+ #list1 {
+    font-style: italic;
+    line-height: 2em;
+    text-align: center;
+    text-decoration: double;
+    background-color: yellow; 
+ }
+
+ #list2 {
+    font-style: normal;
+    line-height: 5em;
+    text-align: justify;
+    text-decoration: dashed;
+    background-color: red;
+ }
+
+ #list3 {
+    font-style: oblique;
+    line-height: 8em;
+    text-align: right;
+    text-decoration: underline;
+    background-color: brown; 
+ }
