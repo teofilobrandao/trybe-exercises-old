@@ -1,0 +1,19 @@
+h1 {
+    margin-left: 30%;
+}
+
+p {
+    margin-left: 37%;
+}
+
+li:hover {
+    background-color: yellow;
+}
+
+li:active {
+    color: red;
+}
+
+ol,li {
+    list-style: none;
+}
